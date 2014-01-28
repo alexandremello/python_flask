@@ -14,6 +14,14 @@ def index():
 		{
 			'author': { 'nickname': 'Susan' },
 			'body': 'The Avengers movie was so cool!'
+		},
+		{
+			'author': { 'nickname': 'Keith' },
+			'body': 'Have a nice day!'
+		},
+		{
+			'author': { 'nickname': 'Daniel' },
+			'body': 'no such a word...'
 		}
 	]
 
