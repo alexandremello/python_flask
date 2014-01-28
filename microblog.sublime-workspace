@@ -1,0 +1,757 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"result",
+				"resultado_api_key"
+			],
+			[
+				"resultad",
+				"resultado_url"
+			],
+			[
+				"post",
+				"post"
+			],
+			[
+				"Indica",
+				"IndicadorSeries"
+			],
+			[
+				"btn-",
+				"btn-default"
+			],
+			[
+				"precos",
+				"precos_selecionados"
+			],
+			[
+				"posi",
+				"posicao"
+			],
+			[
+				"posicao",
+				"posicao_excluido"
+			],
+			[
+				"sort",
+				"sort_direction"
+			],
+			[
+				"preocs",
+				"precosUrl"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"errr",
+				"errorMessage"
+			],
+			[
+				"graos_trigo",
+				"graos_trigo_derivados"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"respond",
+				"respond_with"
+			],
+			[
+				"fnGet",
+				"fnGetDataArray"
+			],
+			[
+				"tro",
+				"through"
+			],
+			[
+				"ID",
+				"IDGrupoSerie"
+			],
+			[
+				"shoudl",
+				"should_not"
+			],
+			[
+				"should",
+				"should_not"
+			],
+			[
+				"dados_",
+				"dados_milho"
+			],
+			[
+				"atualiza",
+				"atualiza_campo_id"
+			],
+			[
+				"ata",
+				"atualiza_combo"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"sScr",
+				"sScrollXInner"
+			],
+			[
+				"idSi",
+				"iDisplayLength"
+			],
+			[
+				"iD",
+				"iDisplayStart"
+			],
+			[
+				"sScro",
+				"sScrollY"
+			],
+			[
+				"bScro",
+				"bScrollInfinite"
+			],
+			[
+				"CvPR",
+				"CvPRCalc"
+			],
+			[
+				"MAxPR",
+				"MaxPRCalc"
+			],
+			[
+				"Min",
+				"MinPRCalc"
+			],
+			[
+				"MedPR",
+				"MedPRCalc"
+			],
+			[
+				"over",
+				"overflow-y:   (property)"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"MEdia",
+				"mediaRegional"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#!flask/bin/python\n\nfrom app import app\napp.run(debut = True)",
+			"file": "run.py",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"rais",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"rails",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 556.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/alexandre/Git/microblog/app/__init__.py",
+		"/home/alexandre/Git/microblog/app/views.py",
+		"/home/alexandre/Git/microblog/run.py",
+		"/home/alexandre/Git/microblog/virtualenv.py",
+		"/home/alexandre/php/webmail/template/contatos/getContatos.php",
+		"/home/alexandre/php/webmail/template/contatos/contato.php",
+		"/home/alexandre/php/webmail/classes/Checar_api.php",
+		"/home/alexandre/php/webmail/includes/jsonResponse.php",
+		"/home/alexandre/php/webmail/login/autenticar_servidor.php",
+		"/home/alexandre/php/webmail/template/contatos/chamada_contatos.php",
+		"/home/alexandre/php/webmail/template/chamada_contatos.php",
+		"/home/alexandre/php/webmail/login/autent.php",
+		"/home/alexandre/php/webmail/classes/Autenticar.php",
+		"/home/alexandre/php/webmail/template/template.php",
+		"/home/alexandre/php/webmail/template/menu.php",
+		"/home/alexandre/php/webmail/autenticar_servidor.php",
+		"/home/alexandre/php/webmail/menu.php",
+		"/home/alexandre/Downloads/index.html?method=authentLogin",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/views/graos/precos/_form.html.erb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/views/devise/shared/_links.erb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/metric_fu/scratch/saikuro/app/controllers/graos/precos_controller.rb_cyclo.html",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/metric_fu/output/app_controllers_graos_precos_controller.rb.html",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/javascripts/graosprecos.js",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/spec/helpers/graoprecos_helper_spec.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/spec/models/graos/graopreco_spec.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/cache/assets/development/sass/ddc7e35faa342a8a85a0d893a6dddfc693dac5c8/graoprecos.css.scssc",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/cache/assets/test/sass/ddc7e35faa342a8a85a0d893a6dddfc693dac5c8/graoprecos.css.scssc",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/metric_fu/scratch/saikuro/app/helpers/graoprecos_helper.rb_cyclo.html",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/metric_fu/output/app_helpers_graoprecos_helper.rb.html",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/metric_fu/output/_home_alexandre_Dropbox_CEPEA_cepeaWeb_app_controllers_graos_precos_controller.rb.html",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/metric_fu/output/_home_alexandre_Dropbox_CEPEA_cepeaWeb_app_views_graos_precos__table.html.erb.html",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/graos/preco.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/config/routes.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/Rakefile",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/metric_fu/output/_home_alexandre_Dropbox_CEPEA_cepeaWeb_app_controllers_application_controller.rb.html",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/metric_fu/output/reek.html",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/controllers/graos/media_regionals_controller.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/metric_fu/output/_home_alexandre_Dropbox_CEPEA_cepeaWeb_config_initializers_devise.rb.html",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/controllers/graos/relatorios/milho/indcampinas_controller.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/config/database.yml",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/controllers/graos/precos_controller.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/public/serie.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/datatables/graos/preco_datatable.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/pids/server.pid",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/db/seeds.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/db/schema.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/javascripts/media_regionals/datatable.js",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/public/gruposerie.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/public/indicador.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/public/indicador_serie.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/javascripts/graosprecos/datatable.js",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/views/graos/precos/_table.html.erb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/config/initializers/inflections.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/config/environment.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/metric_fu/output/excanvas.js",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/metric_fu/scratch/saikuro/index_cyclo.html",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/tmp/metric_fu/output/_home_alexandre_Dropbox_CEPEA_cepeaWeb_app_models_public_unidade.rb.html",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/views/pages/calculos.html.erb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/config/initializers/preferences.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/config/environments/production.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/public.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/stylesheets/custom.css",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/public/projeto.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/public/praca.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/public/moeda.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/public/gserieserie.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/public/gserieprojeto.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/public/gseriepraca.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/public/gseriefonte.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/public/fonte.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/graos/relatorios/milho/indcampinas.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/graos/relatorios/milho.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/graos/relatorios.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/graos/parametro.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/graos/media_regional.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/graos/calculos.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/graos/calculo.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/database/taxas.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/concerns/.keep",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/user.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/graos.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/models/.keep",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/mailers/.keep",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/helpers/graos/calculos/calculo.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/helpers/application_helper.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/decorators/public/serie_decorator.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/decorators/graos/media_regional_decorator.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/datatables/graos/media_regional_datatable.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/controllers/graos/calculos/milho/calculos_controller.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/controllers/concerns/.keep",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/controllers/application_controller.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/stylesheets/background.css",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/stylesheets/application.css",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/stylesheets/animate.css",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/javascripts/graosprecos/jquery.js",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/javascripts/turbolinks_transitions.js.coffee",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/javascripts/simulate.js",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/javascripts/media_regionals.js",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/javascripts/application.js",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/images/.keep",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/config.ru",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/README.rdoc",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/Guardfile",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/Gemfile.lock",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/Gemfile",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/.rvmrc",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/.rspec",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/.project",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/.gitignore",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/vendor/assets/javascripts/jquery-1.10.2.js",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/assets/javascripts/graosprecos/datatables_plugin.js",
+		"/home/alexandre/Documentos/index_atrasado.php",
+		"/home/alexandre/Documentos/index.php",
+		"/home/alexandre/Downloads/index.php",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/views/graos/precos/index.html.erb",
+		"/home/alexandre/Git/desafio/spec/factories/categories_factory.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/vendor/assets/javascripts/jquery-1.10.2.min.map",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/spec/models/public/gruposerie_spec.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/spec/models/public/projeto_spec.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/spec/models/public/gserieprojeto_spec.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/spec/factories/public/gserieprojeto_factory.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/spec/factories/public/projeto_factory.rb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/views/graos/precos/new.html.erb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/views/graos/precos/_preco.html.erb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/views/graos/precos/_form_new.html.erb",
+		"/home/alexandre/Dropbox/CEPEA/cepeaWeb/app/views/graos/precos/_precos.html.erb",
+		"/home/alexandre/Git/desafio/config/routes.rb",
+		"/home/alexandre/Git/desafio/app/views/layouts/application.html.erb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"/home/alexandre/Dropbox/CEPEA/cepeaWeb"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	$array = array ('begin'=> 0, 'limit'=>100);\n	$api_key = new Checar_api(); 	\n	$resultado_api_key = $api_key->executa_metodo('contacts',$array); \n",
+			"template",
+			"])\n",
+			"precos_produto",
+			"scope",
+			"GrupoSerie",
+			"IDGrupoSerie",
+			"Projeto",
+			"GrupoSerie",
+			"Gruposerie",
+			"GrupoSerie",
+			"posicao",
+			"indicador",
+			"'\n",
+			"params",
+			"graos",
+			"color",
+			"//",
+			"Send",
+			"method",
+			"envio",
+			"method",
+			"Date(H)",
+			"semana",
+			"view",
+			"%>\");\n",
+			"%>\");",
+			"compile",
+			"    });",
+			"i",
+			"shoulda",
+			"=\"<%=",
+			" [",
+			"js",
+			"show",
+			"TipoNegcio",
+			"after_initialize",
+			"TipoNegcio",
+			"TipoNegocio",
+			"TipoNegcio",
+			" )",
+			".",
+			"produto"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "run.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "microblog.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"authe",
+				"login/autenticar_servidor.php"
+			],
+			[
+				"menu",
+				"menu.php"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"_form",
+				"app/views/graos/precos/_form.html.erb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"precos",
+				"app/controllers/graos/precos_controller.rb"
+			],
+			[
+				"preco.",
+				"app/models/graos/preco.rb"
+			],
+			[
+				"datata",
+				"app/datatables/graos/preco_datatable.rb"
+			],
+			[
+				"serie",
+				"app/models/public/serie.rb"
+			],
+			[
+				"precoscontr",
+				"app/controllers/graos/precos_controller.rb"
+			],
+			[
+				"datatable",
+				"app/datatables/graos/preco_datatable.rb"
+			],
+			[
+				"indicador",
+				"app/models/public/indicador.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
